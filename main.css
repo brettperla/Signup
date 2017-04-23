@@ -52,3 +52,6 @@ a {
 	color: white;
 	font-weight: bold;
 }
+button:hover {
+	color: darkgreen;
+}
