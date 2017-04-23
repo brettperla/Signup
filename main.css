@@ -1,0 +1,54 @@
+body {
+	background: #298eea;
+	box-sizing: border-box;
+	font-family: arial;
+	text-align: center;
+}
+.brand-logo img {
+	margin-top: 50px;
+	padding-bottom: 50px;
+	height: 35px;
+}
+main {
+	width: 400px;
+	height: 475px;
+	background: white;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px;
+}
+header {
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: grey;
+}
+label {
+	position: relative;
+	float: left;
+	text-align: left;
+	left: 40px;
+}
+input {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 40px;
+	width: 320px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	border-radius: 1px;
+}
+button {
+	height: 55px;
+	width: 320px;
+	background: #15CD72;
+	font-size: 20px;
+	color: white;
+}
+a {
+	color: lightgrey;
+}
+.existing-account {
+	color: white;
+	font-weight: bold;
+}
